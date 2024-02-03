@@ -34,7 +34,9 @@ Some boundaries around our project.
    - Strong background in Mathematics.
 
 3. **Negin Ahmadi:**
-   - [No specific information provided.]
+     - Proficient in Python programming.
+     - Basic front-end skills (HTML, CSS).
+     - knowledge of database-related tasks
 
 4. **Mona Tagelsir:**
    - Proficient in Python programming.
