@@ -27,6 +27,8 @@ Applying systems thinking and design thinking, our group recognizes migration's 
 ### Actionable Research Question
 Building on our understanding, we pose the actionable research question:
 **Research Question:** What are the discernible patterns in internal migration versus international migration within a post-conflict country, considering conflict data, socio-economic factors, and other relevant variables?
+1. What are the main push factors influencing migration in the post-conflict region?
+2. What are the main pull factors attracting individuals to migrate within or outside the post-conflict country?
 
 ## Objective
 This project aims to identify patterns in internal migration versus international migration within post-conflict countries, emphasizing the dynamics of displacement.
@@ -36,10 +38,6 @@ Our analysis relies on datasets covering migration, conflict, and socio-economic
 
 ## Scope and Region
 The study analyzes migration patterns within a post-conflict country, considering both internal and cross-border movements.
-
-## Key Questions
-1. What are the main push factors influencing migration in the post-conflict region?
-2. What are the main pull factors attracting individuals to migrate within or outside the post-conflict country?
 
 ## Reasons for Migration
 Various factors contribute to migration in the post-conflict region, including minority status, economic challenges, education barriers, war, unsafe environments, economic struggles, underdeveloped country, economic hardships, and basic needs.
@@ -55,7 +53,7 @@ Various factors contribute to migration in the post-conflict region, including m
 
 5. **Financial Opportunities:** Economic considerations play a crucial role as immigrants assess destinations based on financial opportunities, employment options, business prospects, and overall economic well-being.
 
-<br>
+
 
 # Milestone 2: Data Collection
 ## 29 January - 2 February, 2024
@@ -84,7 +82,7 @@ Our team is diligently working on the finalization of the prepared dataset, cond
 
 This ongoing process reflects our commitment to delivering a high-quality dataset. We appreciate your patience and understanding as we strive to provide a finalized version that meets the highest standards for transparency and replicability.
 
-<br>
+
 
 # Milestone 3: Data Analysis
 ## 5-16 February, 2024
