@@ -89,10 +89,8 @@ This ongoing process reflects our commitment to delivering a high-quality datase
 # Milestone 3: Data Analysis
 ## 5-16 February, 2024
 
-## Findings and Visualization
-
 ### Non-Technical Explanation
-In our analysis, focusing on the selected countries of interest (referenced below), we observed distinct migration patterns over the five-year period (2014-2019). Visualizations, including bar graphs and statistical analyses, revealed key trends. Certainty levels are moderate, considering data availability and reliability.
+In our analysis, focusing on the selected countries of interest (referenced below), we observed distinct migration patterns over the five-year period (2014-2019).
 
 **Possible Sources of Error:**
 - Variability in data reporting among countries.
@@ -101,7 +99,7 @@ In our analysis, focusing on the selected countries of interest (referenced belo
 
 
 ### Technical Description
-Our analysis leveraged EuroStat (ESTAT) and UN datasets, focusing on the 2014-2019 period. We integrated GDP data from the World Bank for a comprehensive perspective. Selection of columns followed previous suggestions, incorporating neighboring countries' information.
+Our analysis leveraged EuroStat (ESTAT) and UN datasets, focusing on the 2014-2019 period. We want to integrate GDP data from the World Bank for a comprehensive perspective. Selection of columns followed previous suggestions, incorporating neighboring countries' information.
 
 **Techniques Used:**
 - Descriptive statistics to understand migration patterns.
