@@ -5,8 +5,7 @@
 ## Overview
 Our project delves into understanding migration patterns within post-conflict regions, focusing on discerning patterns in internal and international migration. The primary objective is to comprehend the dynamics of displacement.
 
-#
-# Milestone 1: Problem Identification
+## Milestone 1: Problem Identification
 **Date: 22-26 January, 2024**
 
 You can find Planning documents for ouy group
