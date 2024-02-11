@@ -11,10 +11,10 @@ Our project delves into understanding migration patterns within post-conflict re
 You can find Planning documents for ouy group
 including: group norms, learning goals, constraints, and a communication plan in the following link: 
   **Links to Planning Documents:**
-  - [Group Norms](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/group_norms.md)
-  - [Learning Goals](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/learning_goals.md)
-  - [Constraints](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/constraints.md)
-  - [Communication Plan](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/communication.md)
+  - [Group Norms](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
+  - [Learning Goals](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
+  - [Constraints](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
+  - [Communication Plan](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
 
 
 ### Problem Statement
