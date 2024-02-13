@@ -141,7 +141,6 @@ All scripts and documentation for replicating our analysis are available in our 
 - Burundi
 - Angola
 - Mozambique
-- Sri Lanka
 
 
 
