@@ -36,10 +36,10 @@ This project aims to identify patterns in internal migration versus internationa
 Our analysis relies on datasets covering migration, conflict, and socio-economic factors.
 
 ## Scope and Region
-The study analyzes migration patterns within a post-conflict country, considering both internal and cross-border movements.
+The study analyzes migration patterns within a post-conflict countries, considering both internal and cross-border movements.
 
 ## Reasons for Migration
-Various factors contribute to migration in the post-conflict region, including minority status, economic challenges, education barriers, war, unsafe environments, economic struggles, underdeveloped country, economic hardships, and basic needs.
+Various factors contribute to migration in the post-conflict regions, including minority status, economic challenges, education barriers, war, unsafe environments, economic struggles, underdeveloped country, economic hardships, and basic needs.
 
 ## Factors Influencing Immigrant Destination Choices
 1. **Respect for Minorities:** Immigrants seek destinations that prioritize respectful treatment of minorities, valuing diversity and minimizing discrimination.
