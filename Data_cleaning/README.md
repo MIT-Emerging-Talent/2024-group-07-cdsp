@@ -13,19 +13,10 @@ We include below a detailed definition of all variables contained in our dataset
 
 - country_neighbors: consists in the list of countries that share a border with the given country.
 
-- country_area: is the measure of the area extension of the country in squared kilometers.
-
 ## Interdisciplinary Indicators
 - country_gdp_year: is an indicator that provides per capita 20 annual values for gross domestic product (GDP) of a country, expressed in current international dollars and converted by purchasing power parity (PPP) 21 conversion factor.
 
 - country_religion, country_languages: contain, respectively, the most practiced religion, and the list of the most spoken languages in the country (including both official and minority languages).
-
-- country_PDI: is the Power distance indicator (PDI) which is defined as “the extent to which the less powerful members of organisations and institutions (like the family) accept and expect that power is distributed unequally”.
-
-- country_IDV:the Individualism indicator (IDV) 22 (as opposed to collectivism) explores the “degree to which people in a society are integrated into groups"
-- country_MAS: is the Masculinity indicator (MAS), defined as “a preference in society for achievement, heroism, assertiveness and material rewards for success”.
-- country_UAI: is the Uncertainty avoidance indicator (UAI) defined as “a society’s tolerance for ambiguity", in which people embrace or avert an event of something unexpected, unknown, or away from the status quo
-- country_LTO: the Long-term orientation indicator (LTO) associates the connection of the past with the current and future actions/challenges.
 
 ## Demographic Variables
 - source_country_pop_year1: annual population stocks, defined as the number of persons having their usual residence in a country in a given year.
