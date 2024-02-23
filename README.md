@@ -17,6 +17,7 @@ including: group norms, learning goals, constraints, and a communication plan in
   - [Communication Plan](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
 
 
+
 ### Problem Statement
 Our problem statement arises from personal experiences and observations of migration challenges in post-conflict regions. Barriers such as economic challenges, education hindrances, war-induced unsafe environments, and economic struggles contribute to the complex issue of migration dynamics.
 
@@ -53,6 +54,8 @@ Various factors contribute to migration in the post-conflict regions, including 
 5. **Financial Opportunities:** Economic considerations play a crucial role as immigrants assess destinations based on financial opportunities, employment options, business prospects, and overall economic well-being.
 
 
+### Milestone 1 Retrospective
+[Retrospective-01](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-01.md)
 
 # Milestone 2: Data Collection
 ## 29 January - 2 February, 2024
@@ -81,7 +84,8 @@ Our team is diligently working on the finalization of the prepared dataset, cond
 
 This ongoing process reflects our commitment to delivering a high-quality dataset. We appreciate your patience and understanding as we strive to provide a finalized version that meets the highest standards for transparency and replicability.
 
-
+ ### Milestone 2 Retrospective
+[Retrospective-02](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-02.md)
 
 # Milestone 3: Data Analysis
 ## 5-16 February, 2024
@@ -142,5 +146,29 @@ All scripts and documentation for replicating our analysis are available in our 
 - Angola
 - Mozambique
 
+### Milestone 3 Retrospective
+[Retrospective-03](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-03.md)
+
+## Milestone 4: Communicating Results
+**19 February - 2 March, 2024**
+
+### Target Audience Document
+
+1. A document describing your target audience, their capabilities and constraints, their problem you are addressing, how you intend to reach them, and why they should “hire” you.
+2. A communication artifact to achieve the goals in your document. Let your imaginations run with this! It could be a website, a powerpoint, a printed leaflet, a WhatsApp campaign ... anything, as long as you can justify why it’s the best way to reach them.
 
 
+### Milestone 4 Retrospective
+[Retrospective-04](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-04.md)
+
+
+## Milestone 5: Final Presentation Event
+**5-9 March, 2024**
+
+1. A 1-minute pitch for your solution.
+2. A 3-minute presentation of your group’s process from beginning to end including challenges you faced, lessons you learned, and any advice you have for future learners.
+3. A retrospective for this milestone.
+
+   
+### Milestone 5 Retrospective
+[Retrospective-05](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-05.md)
