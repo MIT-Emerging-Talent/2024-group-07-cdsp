@@ -1,5 +1,5 @@
 # Retrospective - Milestone 2: Data Cleaning
-*Date: Date: 29 January - 2 February, 2024*
+*Date: 29 January - 2 February, 2024*
 
 ## Stop Doing
 1. **Avoiding Transparent Communication:** Cease withholding concerns or uncertainties about specific tasks. Openly communicate challenges to foster better collaboration.
