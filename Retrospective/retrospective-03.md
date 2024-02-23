@@ -1,5 +1,6 @@
 # Retrospective - Milestone 3: Data Analysis
 
+*Date: 5-16 February, 2024*
 ### Areas to Improve:
 
 1. **Clarity in Visualizations:**
