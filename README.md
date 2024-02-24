@@ -3,7 +3,7 @@
 # Migration Patterns in Post-Conflict Regions
 
 ## Overview
-Our project delves into understanding migration patterns within post-conflict regions, focusing on discerning patterns in internal and international migration. The primary objective is to comprehend the dynamics of displacement.
+Our project delves into understanding migration patterns within post-conflict regions, focusing on international migration. The primary objective is to comprehend the dynamics of displacement.
 
 ## Milestone 1: Problem Identification
 **Date: 22-26 January, 2024**
@@ -26,23 +26,18 @@ Applying systems thinking and design thinking, our group recognizes migration's 
 
 ### Actionable Research Question
 Building on our understanding, we pose the actionable research question:
-**Research Question:** What are the discernible patterns in internal migration versus international migration within a post-conflict country, considering conflict data, socio-economic factors, and other relevant variables?
-1. What are the main push factors influencing migration in the post-conflict region?
-2. What are the main pull factors attracting individuals to migrate within or outside the post-conflict country?
+**Research Question:** What are the discernible patterns in international migration within a post-conflict country, considering conflict data, socio-economic factors, and other relevant variables?
+1. What are the prevailing trends in migration within the post-conflict region, taking into account for international movements?
+2. To what extent does the Gross Domestic Product (GDP) influence destination selection during migration within the post-conflict context?
+3. Which specific countries do individuals from the post-conflict region tend to choose as their destination during migration, and are there discernible patterns in these choices?
+
 
 ## Objective
-This project aims to identify patterns in internal migration versus international migration within post-conflict countries, emphasizing the dynamics of displacement.
+This project aims to identify patterns in international migration within post-conflict countries, emphasizing the dynamics of displacement.
 
-## Dataset
-Our analysis relies on datasets covering migration, conflict, and socio-economic factors.
-
-## Scope and Region
-The study analyzes migration patterns within a post-conflict countries, considering both internal and cross-border movements.
-
-## Reasons for Migration
-Various factors contribute to migration in the post-conflict regions, including minority status, economic challenges, education barriers, war, unsafe environments, economic struggles, underdeveloped country, economic hardships, and basic needs.
 
 ## Factors Influencing Immigrant Destination Choices
+Various factors contribute to migration in the post-conflict regions, including minority status, economic challenges, education barriers, war, unsafe environments, economic struggles, underdeveloped country, economic hardships, and basic needs.
 1. **Respect for Minorities:** Immigrants seek destinations that prioritize respectful treatment of minorities, valuing diversity and minimizing discrimination.
 
 2. **Promising Future Prospects:** The allure of a better future drives immigrants to destinations offering personal and professional growth, education, career advancement, and economic stability.
@@ -63,14 +58,13 @@ Various factors contribute to migration in the post-conflict regions, including 
 ### Non-Technical Explanation of Domain Modeling
 - **Approach:** Our data modeling approach involves incorporating a multidimensional analysis of migration patterns in post-conflict regions. We consider key factors such as socio-economic conditions, conflict dynamics, and demographic shifts. The choice is influenced by insights from domain experts, emphasizing both quantitative and qualitative data to capture the complexity of migration.
 
-- **Possible Flaws:** While our approach is comprehensive, potential flaws may include challenges in quantifying certain qualitative aspects. Additionally, biases in available data sources could impact the accuracy of our models.
-
+- **Possible Flaws:** While our approach is comprehensive, potential flaws may include challenges in quantifying certain qualitative aspects. Additionally, biases in available data sources could impact the accuracy of our models, given that we could only find the dataset limited to Europe as a destination continent.
 
 ### Documentation for Data Set
-Our dataset includes migration data from UNICEF, Our World in Data, Migration Data Portal, Eurostat, World Bank, Kaggle, and academic studies. The data covers migration patterns, conflict data, and socio-economic factors. you can find the detailed documentation here: 
+Our dataset includes migration data from Eurostat, World Bank, and UN. The data covers migration patterns, conflict data, and socio-economic factors. you can find the detailed documentation here: 
 
-- **Data Set:** [Link to Data Set](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/Data_cleaning)
-- **Description:** The dataset includes the original MIMI dataset, cleaned versions, and additional data on countries of interest. The structure is documented in the cleaning.ipynb file, outlining the transformation process. Possible flaws, such as missing or incomplete data, are acknowledged.
+- **Data Set:** [Link to Data Set](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/Data_cleanin)
+- **Description:** This folder contains the files that includes the original MIMI dataset, cleaned versions, and additional data on countries of interest. The structure is documented in the cleaning.ipynb file, outlining the transformation process. Possible flaws, such as missing or incomplete data, are acknowledged.
 
 
 ### Data Collection and Cleaning Scripts
