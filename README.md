@@ -25,8 +25,8 @@ Our problem statement arises from personal experiences and observations of migra
 Applying systems thinking and design thinking, our group recognizes migration's multi-faceted nature, considering factors like economic hardships, educational barriers, and the impact of war. This holistic understanding guides our exploration of migration patterns in post-conflict regions.
 
 ### Actionable Research Question
-Building on our understanding, we pose the actionable research question:
-**Research Question:** What are the discernible patterns in international migration within a post-conflict country, considering conflict data, socio-economic factors, and other relevant variables?
+Building on our understanding, we pose the actionable research question,
+**Research Question:**
 1. What are the prevailing trends in migration within the post-conflict region, taking into account for international movements?
 2. To what extent does the Gross Domestic Product (GDP) influence destination selection during migration within the post-conflict context?
 3. Which specific countries do individuals from the post-conflict region tend to choose as their destination during migration, and are there discernible patterns in these choices?
