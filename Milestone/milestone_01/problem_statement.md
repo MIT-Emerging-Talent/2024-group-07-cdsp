@@ -1,6 +1,6 @@
 # Migration Priority in Post-Conflict Regions: A Comprehensive Analysis
 
-Migration in post-conflict regions is a complex phenomenon demanding meticulous scrutiny to unravel displacement intricacies. This project aims to discern and prioritize migration patterns within post-conflict countries, focusing on both internal and international movements.
+Migration in post-conflict regions is a complex phenomenon demanding meticulous scrutiny to unravel displacement intricacies. This project aims to discern and prioritize migration patterns within post-conflict countries, focusing on international movements.
 
 ## Key Issues:
 1. **Economic Challenges:** The aftermath of conflict leaves regions grappling with economic adversities, intricately shaping migration landscapes.
@@ -8,9 +8,11 @@ Migration in post-conflict regions is a complex phenomenon demanding meticulous 
 3. **Unsafe Environments:** Lingering war effects create unsafe conditions, profoundly influencing migration decision-making.
 4. **Socio-economic Factors:** In-depth exploration of socio-economic factors is imperative to decipher the intricate web of migration dynamics.
 
-## Actionable Research Questions:
-1. **Main Push Factors:** Unravel primary drivers compelling migration in post-conflict regions.
-2. **Main Pull Factors:** Investigate central attractors prompting individuals to migrate within or beyond post-conflict territories.
+## Actionable Research Question
+Building on our understanding, we pose the actionable research question,
+**Research Question:**
+1. What are the prevailing trends in migration within the post-conflict region, taking into account for international movements?
+2. To what extent does the Gross Domestic Product (GDP) influence destination selection during migration within the post-conflict context?
 
 ## Objective:
 Discern intricate patterns differentiating internal from international migration within post-conflict countries, employing a comprehensive analysis integrating conflict data, socio-economic factors, and other pertinent variables.
