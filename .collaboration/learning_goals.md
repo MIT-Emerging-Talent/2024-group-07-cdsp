@@ -4,7 +4,7 @@
 
 - **Review Data Structures and Algorithms:** Strengthen our understanding of fundamental data structures and algorithms through collaborative learning sessions.
 
-- **Effective Use of Programming Language Features:** Explore and practice advanced features of our chosen programming language to enhance our coding skills.
+- **Effective Use of Programming Language Features:** Explore and practice advanced features of Python programming language to enhance our coding skills.
 
 - **Emphasize Code Readability and Documentation:** Focus on writing more complete, readable, and well-documented solutions to improve overall code quality.
 
