@@ -1,9 +1,8 @@
-
-
 # Migration Patterns in Post-Conflict Regions
 
 ## Overview
 Our project delves into understanding migration patterns within post-conflict regions, focusing on international migration. The primary objective is to comprehend the dynamics of displacement.
+
 
 ## Milestone 1: Problem Identification
 **Date: 22-26 January, 2024**
@@ -12,10 +11,9 @@ You can find Planning documents for ouy group
 including: group norms, learning goals, constraints, and a communication plan in the following link: 
   **Links to Planning Documents:**
   - [Group Norms](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
-  - [Learning Goals](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
-  - [Constraints](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
-  - [Communication Plan](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
-
+  - [Communication Plan](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/communication.md)
+  - [Learning Goals](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/learning_goals.md)
+  - [Constraints](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/constraints.md)
 
 
 ### Problem Statement
@@ -52,37 +50,33 @@ Various factors contribute to migration in the post-conflict regions, including 
 ### Milestone 1 Retrospective
 [Retrospective-01](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-01.md)
 
+
+
+
 # Milestone 2: Data Collection
-## 29 January - 2 February, 2024
+**29 January - 2 February, 2024**
+
 
 ### Non-Technical Explanation of Domain Modeling
 - **Approach:** Our data modeling approach involves incorporating a multidimensional analysis of migration patterns in post-conflict regions. We consider key factors such as socio-economic conditions, conflict dynamics, and demographic shifts. The choice is influenced by insights from domain experts, emphasizing both quantitative and qualitative data to capture the complexity of migration.
 
 - **Possible Flaws:** While our approach is comprehensive, potential flaws may include challenges in quantifying certain qualitative aspects. Additionally, biases in available data sources could impact the accuracy of our models, given that we could only find the dataset limited to Europe as a destination continent.
 
-### Documentation for Data Set
-Our dataset includes migration data from Eurostat, World Bank, and UN. The data covers migration patterns, conflict data, and socio-economic factors. you can find the detailed documentation here: 
-
-- **Data Set:** [Link to Data Set](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/Data_cleanin)
-- **Description:** This folder contains the files that includes the original MIMI dataset, cleaned versions, and additional data on countries of interest. The structure is documented in the cleaning.ipynb file, outlining the transformation process. Possible flaws, such as missing or incomplete data, are acknowledged.
 
 
 ### Data Collection and Cleaning Scripts
-For transparency and replicability, all data collection and cleaning scripts are available in our directory, covering the entire process, including data separation into training and validation sets.
-
-- [cleaning.ipynb](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Data_cleaning/cleaning.ipynb): Detailed script showcasing data cleaning procedures, handling missing values, and ensuring consistency.
-- [countries_of_interest_data.csv](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Data_cleaning/countries_of_interest_data.csv): Script specifically addressing additional data on countries of interest.
-
-### Public Hosting of Prepared Data Set (Work in Progress)
-Our team is diligently working on the finalization of the prepared dataset, conducting thorough checks and implementing refinements. The dataset, currently in the [Data_cleaning](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/Data_cleaning) directory within our GitHub repository, is undergoing continuous improvements to ensure accuracy and completeness.
-
-This ongoing process reflects our commitment to delivering a high-quality dataset. We appreciate your patience and understanding as we strive to provide a finalized version that meets the highest standards for transparency and replicability.
+Our dataset includes migration data from Eurostat, World Bank, and UN. The data covers migration patterns, conflict data, and socio-economic factors. And for transparency and replicability, all data collection and cleaning scripts are available in our directory, covering the entire process, including data separation into training and validation sets.
+- **Data Set Cleaning:** [Link to Data Set](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/Data_cleaning)
+- **Description:** This folder contains the files that includes the original MIMI dataset, cleaned versions, and additional data on countries of interest. The structure is documented in the cleaning.ipynb file, outlining the transformation process. Possible flaws, such as missing or incomplete data, are acknowledged.
 
  ### Milestone 2 Retrospective
 [Retrospective-02](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-02.md)
 
+
+
+
 # Milestone 3: Data Analysis
-## 5-16 February, 2024
+**5-16 February, 2024**
 
 ### Non-Technical Explanation
 In our analysis, focusing on the selected countries of interest (referenced below), we observed distinct migration patterns over the five-year period (2014-2019).
@@ -105,13 +99,10 @@ Our analysis leveraged EuroStat (ESTAT) and UN datasets, focusing on the 2014-20
 - Reliance on aggregated data, potentially masking nuanced patterns.
 - Economic indicators might oversimplify complex migration motivations.
 
-
 ### Replication Scripts and Documentation
 All scripts and documentation for replicating our analysis are available in our [Data Analysis](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/Data_Analysis) directory. This includes detailed explanations, code snippets, and necessary datasets.
 
-*Note: Analysis is ongoing; updates and refinements will be reflected in subsequent milestones.*
-
-## Countries of Interest:
+### List of Countries of Interest:
 - Afghanistan
 - Lebanon
 - Libya
@@ -139,6 +130,14 @@ All scripts and documentation for replicating our analysis are available in our 
 - Burundi
 - Angola
 - Mozambique
+
+
+### Clarification on Destination Countries:
+
+It is imperative to emphasize that, due to constraints in data availability and time limitations, our research will specifically concentrate on destination countries within **Europe**. This focused selection is made to gain comprehensive insights into migration patterns within the **European region**. Recognizing the diverse nature of migration dynamics, this approach enables a thorough examination of the chosen European destinations.
+
+
+
 
 ### Milestone 3 Retrospective
 [Retrospective-03](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-03.md)
