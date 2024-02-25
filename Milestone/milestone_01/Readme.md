@@ -27,7 +27,7 @@ Explore migration determinants, encompassing minority status, economic challenge
 By meticulously deciphering and prioritizing these migration factors, this project aims to contribute nuanced insights for post-conflict regions, fostering informed decision-making and nuanced policy formulation.
 
 
-# Research Questions:
+## Other Related Research Questions:
 
 1. How do socio-economic factors, such as education and employment opportunities, influence migration patterns in post-conflict regions?
 2. What role does political stability play in shaping migration decisions within post-conflict areas?
