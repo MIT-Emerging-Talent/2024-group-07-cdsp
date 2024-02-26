@@ -8,6 +8,23 @@ A simple internet search reveals that gender disparities in migration are influe
 
 Education and empowerment are crucial drivers for female migration, as women seek growth in societies offering these opportunities. Government policies promoting gender equality also shape migration patterns. A comprehensive understanding requires exploring specific data points, recognizing the complex interplay of economic, social, and political factors in migration dynamics.
 
+
+
+Upon executing the code, the initial findings will revolve around two **Bar Graphs**:
+
+
+1. Bar graph showing Male, Female and Both(Male and Female) ratio of the imigrants with residence status in the respective years w.r.t the origin country. The results are for ESTAT dataset.
+
+![Uploading Bar graph showing Male, Female and Both(Male and Female) ratio of the imigrants with citizenship status](1.png)
+
+
+
+2. Bar graph showing Male, Female and Both(Male and Female) ratio of the imigrants with citizenship status in the respective years w.r.t the origin country. The results are for ESTAT dataset.
+
+![Uploading Bar graph showing Male, Female and Both(Male and Female) ratio of the imigrants with citizenship status](2.png)
+
+
+
 Examining the migration data, patterns emerge, highlighting higher migration rates in specific years for certain countries. Further exploration into the reasons for this phenomenon provides valuable insights:
 
 1. Afghanistan 2015: Increased migration due to persistent security concerns and ongoing conflicts.
@@ -37,14 +54,8 @@ Examining the migration data, patterns emerge, highlighting higher migration rat
 25. Ukraine (conflict escalated in 2014) 2019: Ongoing conflict and political tensions leading to migration.
 26. Yemen 2019: Prolonged conflicts and humanitarian crisis driving migration.
 
-## Bar Graphs
-1. Male, Female, and Both (Male and Female) ratio of immigrants with citizenship status.
-2. Male, Female, and Both (Male and Female) ratio of immigrants with residence status.
 
-## Possible Sources of Error
-- Variability in data reporting among countries.
-- Incomplete or missing data for specific regions.
-- Economic factors influencing migration might not be fully captured.
+
 
 ## Technical Overview
 
@@ -52,17 +63,51 @@ Examining the migration data, patterns emerge, highlighting higher migration rat
 
 Our in-depth analysis harnessed EuroStat (ESTAT) and UN datasets, with a primary focus on the 2014-2019 period. The objective was to provide a comprehensive perspective, requiring the integration of GDP data from the World Bank. The meticulous selection of columns followed past recommendations, incorporating valuable insights from neighboring countries.
 
+
+
+- Seperated DataFrame which shows total number of emigrants from the origin countries who left their countries to seek residence in 6 years(2014-2019)
+![Seperated DataFrame which shows total number of emigrants from the origin countries who left their countries to seek residence in 6 years(2014-2019)](3.png)
+
 ## Investigative Focus
 
 The core of our investigation centered on unraveling migration patterns within post-conflict regions. Our primary goal was to identify key influencers driving migration, guiding individuals from their origin countries to new destinations. Initial exploration uncovered various migration datasets, but none precisely matched our specific focus on post-conflict scenarios.
-
-## Dataset Discovery
-
-After an exhaustive search, we identified a novel dataset, sharing its link on our GitHub repository. Spanning from 2014 to 2019, this dataset offered an extensive array of indicators and factors impacting migration. Due to time constraints, our analysis strategically honed in on pivotal factors crucial for predicting future migration patterns, distinct from other datasets.
-
-## Data Cleaning and Anticipated Patterns
-
 In the second phase of data cleaning, our attention shifted to factors contributing to our anticipated patterns. To address concerns arising from the temporal gap between 2019 and 2024, we directed our focus to countries embroiled in conflict from 2014 to 2019. This approach, while excluding certain nations, enabled us to predict migration patterns bridging both past and current conflicts.
+
+- Seperated DataFrame which shows total number of emigrants from the origin countries who left their countries to seek citizenship in 6 years(2014-2019)
+
+
+| origin_name                             | origin_alpha_3 | citizen_sum_5_years |
+|-----------------------------------------|----------------|----------------------|
+| Afghanistan                             | AFG            | 37865.0              |
+| Angola                                  | AGO            | 1977.0               |
+| Bosnia and Herzegovina                 | BIH            | 48685.0              |
+| Burundi                                 | BDI            | 2591.0               |
+| Chad                                    | TCD            | 288.0                |
+| Colombia                                | COL            | 138902.0             |
+| Congo, The Democratic Republic of the   | COD            | 11058.0              |
+| Côte d'Ivoire                           | CIV            | 6067.0               |
+| Eritrea                                 | ERI            | 34732.0              |
+| Ethiopia                                | ETH            | 15296.0              |
+| Iraq                                    | IRQ            | 34737.0              |
+| Kosovo                                  | XK             | 28072.0              |
+| Lebanon                                 | LBN            | 10281.0              |
+| Liberia                                 | LBR            | 426.0                |
+| Libya                                   | LBY            | 3845.0               |
+| Mozambique                              | MOZ            | 657.0                |
+| Myanmar                                 | MMR            | 1024.0               |
+| Sierra Leone                            | SLE            | 1131.0               |
+| Somalia                                 | SOM            | 24028.0              |
+| South Sudan                             | SSD            | 399.0                |
+| Sri Lanka                               | LKA            | 18927.0              |
+| Sudan                                   | SDN            | 6137.0               |
+| Syrian Arab Republic                    | SYR            | 169453.0             |
+| Ukraine                                 | UKR            | 98747.0              |
+| Yemen                                   | YEM            | 2086.0               |
+
+
+
+
+
 
 ## Introduction of GDP Variable
 
@@ -70,6 +115,19 @@ During the subsequent data analysis phase, we introduced a new variable – GDP.
 
 While some origin countries exhibited a correlation between GDP and migration, others did not. Recognizing the intricate nature of migration determinants, we delved into additional factors influencing migration in the non-technical section of our project.
 
+- Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)
+  ![Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)](4.png)
+
 ## Analysis of Popular Destination Countries
 
-Expanding our inquiry to popular destination countries (Sweden, Spain, Italy), a parallel correlation between the number of migrants and GDP emerged. However, similar to the origin countries, this correlation proved inconsistent across all destination countries. In conclusion, a definitive statement regarding whether the GDP of our origin or destination countries directly affects the number of migrants remains elusive.
+
+We opted to explore a comprehensive list of European countries as potential destinations for emigrants, focusing on those displaying greater receptivity and hosting more immigrants over the past six years.
+
+- Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)
+  ![Destination Countries from 2014-2019](6.png)
+
+
+Expanding our inquiry to popular destination countries (Sweden, Spain, Italy), a parallel correlation between the number of migrants and GDP emerged. However, similar to the origin countries, this correlation proved in consistent across all destination countries. In conclusion, a definitive statement regarding whether the GDP of our origin or destination countries directly affects the number of migrants remains elusive.
+
+- Relation between destination countries GDP and number of migrants over the period of 6 years (2014-2019)
+  ![Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)](5.png)
