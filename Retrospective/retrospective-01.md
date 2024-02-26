@@ -5,20 +5,24 @@
 ## Stop Doing
 - Rushing with the research work
 - Avoid missleading questions
+- Don't jump into conclusions for your research questions based on your personal experiences
 
 
 ## Continue Doing
 - Research on the conflicted regions
-- Keep formulating relevant questions 
+- Keep formulating relevant questions
+- Be open to considering additional influencing factors 
 
 ## Start Doing
-- Reading relevant articles
-- Getting accustomed to GitHub.
+- Reading relevant articles and research papers
+- Getting accustomed to GitHub
+- Review similar projects on GitHub/Kaggle
 
 ## Lessons Learned
 
 ---
 - Collaborative thinking helps formulating questions
+- Let the data speak
 
 
 ## Strategy vs. Board
