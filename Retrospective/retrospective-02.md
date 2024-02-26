@@ -6,18 +6,18 @@
 2. Stop overlooking individual progress updates. Regularly check in on the team's progress to ensure everyone is on track.
 
 ## Continue Doing
-1. **Thorough Data Cleaning Practices:** Continue the commitment to meticulous data cleaning, ensuring the reliability and accuracy of the dataset.
-2. **Collaborative Decision-Making:** Maintain the practice of involving team members in decision-making, encouraging diverse perspectives for more informed choices.
-3. **Iterative Approach:** Continue the iterative approach to data cleaning, allowing for adjustments based on continuous feedback and insights.
+1. Continue the commitment to meticulous data cleaning, ensuring the reliability and accuracy of the dataset.
+2. Maintain the practice of involving team members in decision-making, encouraging diverse perspectives for more informed choices.
+3. Continue the iterative approach to data cleaning, allowing for adjustments based on continuous feedback and insights.
 
 ## Start Doing
-1. **Implementation of Automated Validation:** Begin exploring automated tools for data validation to streamline and expedite the verification process.
-2. **Regular Check-ins with Domain Experts:** Initiate regular check-ins with domain experts to ensure ongoing alignment with the evolving project goals.
+1. Begin exploring automated tools for data validation to streamline and expedite the verification process.
+2. Initiate regular check-ins on slack.
 
 ## Lessons Learned
-1. **Importance of Proactive Communication:** Recognized the critical role of proactive communication in preventing misunderstandings and enhancing team cohesion.
-2. **Iterative Data Cleaning:** Learned from the iterative data cleaning process, emphasizing the significance of refining approaches based on evolving requirements.
-3. **Balancing Complexity and Simplicity:** Acknowledged the need to strike a balance between addressing project complexities and maintaining simplicity for better understanding.
+1. Recognized the critical role of proactive communication in preventing misunderstandings and enhancing team cohesion.
+2. Learned from the iterative data cleaning process, emphasizing the significance of refining approaches based on evolving requirements.
+3. Acknowledged the need to strike a balance between addressing project complexities and maintaining simplicity for better understanding.
 
 ## Strategy vs. Execution
 **What Went as Expected:**
