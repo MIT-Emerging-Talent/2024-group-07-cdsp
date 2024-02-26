@@ -10,6 +10,12 @@ import plotly.graph_objs as go
 from plotly.offline import download_plotlyjs, init_notebook_mode, plot, iplot
 %matplotlib inline
 import numpy as np
-from pandas.api.types import is_string_dtype
-from pandas.api.types import is_numeric_dtype
 import pandas as pd
+
+Run the following commands in your terminal if needed:
+
+- pip install matplotlib
+- pip install plotly==5.19.0
+- pip install seaborn
+- pip install --upgrade nbformat
+- pip install chart_studio
