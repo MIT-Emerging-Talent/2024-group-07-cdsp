@@ -28,14 +28,16 @@
 ## Strategy vs. Board
 
 ### What parts of your plan went as expected?
-- Repository Configuration: The setup of our project repository, encompassing the project board, branch protections, pull request template, milestones, and Slack group, proceeded as planned. 
+- Repository Configuration: the setup of our project repository, encompassing the project board, branch protections, pull request template, milestones, and Slack group proceeded as planned. 
 
-- Research work: Finding reading material related to migration.
+- Research work: finding reading material related to migration.
 
 ### What parts of your plan did not work out?
 - Deciding the goal of the project
+- Finding a suitable and trusted dataset
 
 ### Did you need to add things that weren't in your strategy?
-- We haven't decided on a strategy yet.
+- Yes, we decided to merge data from multiple data sources because we couldn't find a dataset that includes all the factors that might be influencing migration decisions.
+- Adopting an Agile Model
 
 
