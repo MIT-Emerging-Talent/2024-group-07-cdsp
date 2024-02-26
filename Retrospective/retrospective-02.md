@@ -2,8 +2,9 @@
 *Date: 29 January - 2 February, 2024*
 
 ## Stop Doing
-1. **Avoiding Transparent Communication:** Cease withholding concerns or uncertainties about specific tasks. Openly communicate challenges to foster better collaboration.
+1. **Avoiding Transparent Communication:** cease withholding concerns or uncertainties about specific tasks. Openly communicate challenges to foster better collaboration.
 2. **Neglecting Individual Progress Updates:** Stop overlooking individual progress updates. Regularly check in on the team's progress to ensure everyone is on track.
+3. **Duplicating Data Files:** read from the original data file instead of spliting it everytime and uploading a new data file.
 
 ## Continue Doing
 1. **Thorough Data Cleaning Practices:** Continue the commitment to meticulous data cleaning, ensuring the reliability and accuracy of the dataset.
