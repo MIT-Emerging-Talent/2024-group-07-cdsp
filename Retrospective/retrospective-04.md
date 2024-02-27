@@ -22,5 +22,5 @@
 3. **Additional Steps:** Recognize the need for a more in-depth analysis of the target audience for effective communication.
 4. **Strategy Adjustments:** Adjust the strategy to include visual elements, ensuring a more impactful presentation.
 
-This retrospective emphasizes the evolution of your communication strategy, leveraging lessons learned and embracing a more interactive and audience-centric approach.
+This retrospective emphasizes the evolution of our communication strategy, leveraging lessons learned and embracing a more interactive and audience-centric approach.
 
