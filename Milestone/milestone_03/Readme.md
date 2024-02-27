@@ -125,9 +125,40 @@ We opted to explore a comprehensive list of European countries as potential dest
 
 - Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)
   ![Destination Countries from 2014-2019](6.png)
-
+  
+- Favourite destination countries of migrants from conflicted countries.
+  
+| origin_name                           | destination_name        | Total_6_years | geodesic_distance_km |
+|---------------------------------------|-------------------------|---------------|----------------------|
+| Afghanistan                           | Austria                 | 67306.0       | 4636.538275          |
+| Angola                                | Belgium                 | 3020.0        | 6958.978978          |
+| Bosnia and Herzegovina               | Slovenia                | 91670.0       | 326.198961           |
+| Burundi                               | Belgium                 | 5982.0        | 6446.514154          |
+| Chad                                  | Italy                   | 537.0         | 2987.462572          |
+| Colombia                              | Spain                   | 439322.0      | 8040.015722          |
+| Congo, The Democratic Republic of the | Belgium                 | 25294.0       | 6266.452572          |
+| Côte d'Ivoire                         | Italy                   | 39650.0       | 4201.838103          |
+| Eritrea                               | Sweden                  | 52826.0       | 5276.632409          |
+| Ethiopia                              | Netherlands             | 21872.0       | 5733.854601          |
+| Iraq                                  | Sweden                  | 52646.0       | 3504.952911          |
+| Kosovo                                | Switzerland             | 28497.0       | 1106.580352          |
+| Lebanon                               | Sweden                  | 15721.0       | 3178.687652          |
+| Liberia                               | Italy                   | 1544.0        | 4488.389237          |
+| Libya                                 | Italy                   | 7288.0        | 1775.533107          |
+| Mozambique                            | Italy                   | 750.0         | 7107.044344          |
+| Myanmar                               | Switzerland             | 930.0         | 8097.416659          |
+| Sierra Leone                          | Italy                   | 3458.0        | 4407.133209          |
+| Somalia                               | Sweden                  | 32551.0       | 6529.316611          |
+| South Sudan                           | Norway                  | 425.0         | 6004.901735          |
+| Sri Lanka                             | Italy                   | 51107.0       | 7628.194384          |
+| Sudan                                 | Sweden                  | 12340.0       | 5331.470293          |
+| Syrian Arab Republic                  | Sweden                  | 270812.0      | 3176.818517          |
+| Ukraine                               | Italy                   | 101160.0      | 1626.414541          |
+| Yemen                                 | Sweden                  | 3636.0        | 5506.369092          |
 
 Expanding our inquiry to popular destination countries (Sweden, Spain, Italy), a parallel correlation between the number of migrants and GDP emerged. However, similar to the origin countries, this correlation proved in consistent across all destination countries. In conclusion, a definitive statement regarding whether the GDP of our origin or destination countries directly affects the number of migrants remains elusive.
 
 - Relation between destination countries GDP and number of migrants over the period of 6 years (2014-2019)
   ![Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)](5.png)
+
+

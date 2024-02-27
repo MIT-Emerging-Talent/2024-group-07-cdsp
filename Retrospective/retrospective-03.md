@@ -1,26 +1,19 @@
 # Retrospective - Milestone 3: Data Analysis
 
 *Date: 5-16 February, 2024*
-### Areas to Improve:
+### Stop Doing:
+- Avoid overlooking the importance of clear visualizations, particularly in non-technical explanations.
+- Discontinue limiting the exploration of alternative analysis approaches.
 
-1. **Clarity in Visualizations:**
-   - Avoid overlooking the importance of clear visualizations, particularly in non-technical explanations.
-2. **Exploration of Alternative Analyses:**
-   - Discontinue limiting the exploration of alternative analysis approaches.
+### Continue Doing:
 
-### Positive Practices to Retain:
+- Maintain assisting team members when facing challenges, fostering a collaborative spirit.
+- Continue showing patience to support the growth of less experienced team members.
 
-1. **Collaborative Assistance:**
-   - Maintain assisting team members when facing challenges, fostering a collaborative spirit.
-2. **Patience with Less Experienced Members:**
-   - Continue showing patience to support the growth of less experienced team members.
+### Start Doing:
 
-### New Initiatives:
-
-1. **Increased Communication through More Meetings:**
-   - Enhance communication and coordination by increasing the frequency of team meetings.
-2. **Lessons Learned Emphasis:**
-   - Emphasize collecting more data, prioritizing data restructuring and cleaning, and initiating dataset merging.
+- Enhance communication and coordination by increasing the frequency of team meetings.
+- Emphasize collecting more data, prioritizing data restructuring and cleaning, and initiating dataset merging.
 
 ### Ongoing Best Practices:
 
