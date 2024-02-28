@@ -10,10 +10,10 @@ Our project delves into understanding migration patterns within post-conflict re
 You can find Planning documents for ouy group
 including: group norms, learning goals, constraints, and a communication plan in the following link: 
   **Links to Planning Documents:**
-  - [Group Norms](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/.collaboration)
-  - [Communication Plan](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/communication.md)
-  - [Learning Goals](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/learning_goals.md)
-  - [Constraints](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/.collaboration/constraints.md)
+  - [Group Norms](.collaboration/communication.md)
+  - [Communication Plan](.collaboration/communication.md)
+  - [Learning Goals](.collaboration/learning_goals.md)
+  - [Constraints](.collaboration/constraints.md)
 
 
 ### Problem Statement
@@ -47,8 +47,11 @@ Various factors contribute to migration in the post-conflict regions, including 
 5. **Financial Opportunities:** Economic considerations play a crucial role as immigrants assess destinations based on financial opportunities, employment options, business prospects, and overall economic well-being.
 
 
+### Milestone 1
+For a more detailed explanation of this milestone, you can refer to the following link: [Milestone-01](Milestone/milestone_01)
+
 ### Milestone 1 Retrospective
-[Retrospective-01](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-01.md)
+[Retrospective-01](Retrospective/retrospective-01.md)
 
 
 
@@ -66,11 +69,15 @@ Various factors contribute to migration in the post-conflict regions, including 
 
 ### Data Collection and Cleaning Scripts
 Our dataset includes migration data from Eurostat, World Bank, and UN. The data covers migration patterns, conflict data, and socio-economic factors. And for transparency and replicability, all data collection and cleaning scripts are available in our directory, covering the entire process, including data separation into training and validation sets.
-- **Data Set Cleaning:** [Link to Data Set](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/Data_cleaning)
+- **Data Set Cleaning:** [Link to Data Set](Data_cleaning)
 - **Description:** This folder contains the files that includes the original MIMI dataset, cleaned versions, and additional data on countries of interest. The structure is documented in the cleaning.ipynb file, outlining the transformation process. Possible flaws, such as missing or incomplete data, are acknowledged.
 
+
+### Milestone 2
+For a more detailed explanation of this milestone, you can refer to the following link: [Milestone-02](Milestone/milestone_02) 
+
  ### Milestone 2 Retrospective
-[Retrospective-02](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-02.md)
+[Retrospective-02](Retrospective/retrospective-02.md)
 
 
 
@@ -100,7 +107,7 @@ Our analysis leveraged EuroStat (ESTAT) and UN datasets, focusing on the 2014-20
 - Economic indicators might oversimplify complex migration motivations.
 
 ### Replication Scripts and Documentation
-All scripts and documentation for replicating our analysis are available in our [Data Analysis](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/tree/main/Data_Analysis) directory. This includes detailed explanations, code snippets, and necessary datasets.
+All scripts and documentation for replicating our analysis are available in our [Data Analysis](Data_Analysis) directory. This includes detailed explanations, code snippets, and necessary datasets.
 
 ### List of Countries of Interest:
 - Afghanistan
@@ -137,10 +144,11 @@ All scripts and documentation for replicating our analysis are available in our 
 It is imperative to emphasize that, due to constraints in data availability and time limitations, our research will specifically concentrate on destination countries within **Europe**. This focused selection is made to gain comprehensive insights into migration patterns within the **European region**. Recognizing the diverse nature of migration dynamics, this approach enables a thorough examination of the chosen European destinations.
 
 
-
+### Milestone 3
+For a more detailed explanation of this milestone, you can refer to the following link: [Milestone-03](Milestone/milestone_03) 
 
 ### Milestone 3 Retrospective
-[Retrospective-03](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-03.md)
+[Retrospective-03](Retrospective/retrospective-03.md)
 
 ## Milestone 4: Communicating Results
 **19 February - 2 March, 2024**
@@ -149,10 +157,13 @@ It is imperative to emphasize that, due to constraints in data availability and 
 
 1. A document describing your target audience, their capabilities and constraints, their problem you are addressing, how you intend to reach them, and why they should “hire” you.
 2. A communication artifact to achieve the goals in your document. Let your imaginations run with this! It could be a website, a powerpoint, a printed leaflet, a WhatsApp campaign ... anything, as long as you can justify why it’s the best way to reach them.
+   
 
+### Milestone 4
+For a more detailed explanation of this milestone, you can refer to the following link: [Milestone-04](Milestone/milestone_04) 
 
 ### Milestone 4 Retrospective
-[Retrospective-04](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-04.md)
+[Retrospective-04](Retrospective/retrospective-04.md)
 
 
 ## Milestone 5: Final Presentation Event
@@ -162,6 +173,8 @@ It is imperative to emphasize that, due to constraints in data availability and 
 2. A 3-minute presentation of your group’s process from beginning to end including challenges you faced, lessons you learned, and any advice you have for future learners.
 3. A retrospective for this milestone.
 
-   
+### Milestone 5
+For a more detailed explanation of this milestone, you can refer to the following link: [Milestone-05](Milestone/milestone_05) 
+
 ### Milestone 5 Retrospective
-[Retrospective-05](https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/blob/main/Retrospective/retrospective-05.md)
+[Retrospective-05](Retrospective/retrospective-05.md)
