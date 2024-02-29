@@ -35,7 +35,7 @@ This project aims to identify patterns in international migration within post-co
 
 
 ## Factors Influencing Immigrant Destination Choices
-Based on our personal experience, Various factors contribute to migration in the post-conflict regions: 
+Based on our personal experiences, Various factors contribute to migration in the post-conflict regions: 
 
 1. **Respect for Minorities:** Immigrants seek destinations that prioritize respectful treatment of minorities, valuing diversity and minimizing discrimination.
 
