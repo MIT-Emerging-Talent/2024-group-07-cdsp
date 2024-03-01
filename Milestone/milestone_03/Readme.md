@@ -116,6 +116,7 @@ During the subsequent data analysis phase, we introduced a new variable – GDP.
 While some origin countries exhibited a correlation between GDP and migration, others did not. Recognizing the intricate nature of migration determinants, we delved into additional factors influencing migration in the non-technical section of our project.
 
 - Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)
+  
   ![Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)](4.png)
 
 ## Analysis of Popular Destination Countries
@@ -124,15 +125,17 @@ While some origin countries exhibited a correlation between GDP and migration, o
 We opted to explore a comprehensive list of European countries as potential destinations for emigrants, focusing on those displaying greater receptivity and hosting more immigrants over the past six years.
 
 - Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)
+  
   ![Destination Countries from 2014-2019](6.png)
   
 - Favourite destination countries of migrants from conflicted countries.
+This dataset provides information on migration between various countries, including the total number of people who have migrated over a six-year period and the geodesic distance between the origin and destination countries.
   
 | origin_name                           | destination_name        | Total_6_years | geodesic_distance_km |
 |---------------------------------------|-------------------------|---------------|----------------------|
 | Afghanistan                           | Austria                 | 67306.0       | 4636.538275          |
 | Angola                                | Belgium                 | 3020.0        | 6958.978978          |
-| Bosnia and Herzegovina               | Slovenia                | 91670.0       | 326.198961           |
+| Bosnia and Herzegovina                | Slovenia                | 91670.0       | 326.198961           |
 | Burundi                               | Belgium                 | 5982.0        | 6446.514154          |
 | Chad                                  | Italy                   | 537.0         | 2987.462572          |
 | Colombia                              | Spain                   | 439322.0      | 8040.015722          |
@@ -159,6 +162,45 @@ We opted to explore a comprehensive list of European countries as potential dest
 Expanding our inquiry to popular destination countries (Sweden, Spain, Italy), a parallel correlation between the number of migrants and GDP emerged. However, similar to the origin countries, this correlation proved in consistent across all destination countries. In conclusion, a definitive statement regarding whether the GDP of our origin or destination countries directly affects the number of migrants remains elusive.
 
 - Relation between destination countries GDP and number of migrants over the period of 6 years (2014-2019)
+  
   ![Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)](5.png)
+
+
+- This comprehensive table presents crucial migration data points that facilitate in-depth analysis of migration patterns and trends between diverse countries. The included metrics, such as the total number of migrants over a six-year period, along with the UN-estimated net migration rates, offer valuable insights into the dynamics of population movement.
+
+| origin_name                        | destination_name     | Total_6_years | UN_destination_net_migr_rate_2015-2020  | UN_origin_net_migr_rate_2015-2020 |
+|------------------------------------|----------------------|---------------|-----------------------------------------|-------------------------------------|
+| Afghanistan                        | Austria              | 67306.0       | 7.351                                   | -1.716                              |
+| Angola                             | Belgium              | 3020.0        | 4.196                                   | 0.211                               |
+| Bosnia and Herzegovina             | Slovenia             | 91670.0       | 0.964                                   | -6.434                              |
+| Burundi                            | Belgium              | 5982.0        | 4.196                                   | 0.181                               |
+| Chad                               | Italy                | 537.0         | 2.461                                   | 0.131                               |
+| Colombia                           | Spain                | 439322.0      | 0.856                                   | 4.162                               |
+| Congo, The Democratic Republic of  | Belgium              | 25294.0       | 4.196                                   | NaN                                 |
+| Côte d'Ivoire                      | Italy                | 39650.0       | 2.461                                   | -0.323                              |
+| Eritrea                            | Sweden               | 52826.0       | 4.027                                   | -11.571                             |
+| Ethiopia                           | Netherlands          | 21872.0       | 0.939                                   | 0.278                               |
+| Iraq                               | Sweden               | 52646.0       | 4.027                                   | 0.207                               |
+| Kosovo                             | Switzerland          | 28497.0       | 6.135                                   | NaN                                 |
+| Lebanon                            | Sweden               | 15721.0       | 4.027                                   | -4.493                              |
+| Liberia                            | Italy                | 1544.0        | 2.461                                   | -1.049                              |
+| Libya                              | Italy                | 7288.0        | 2.461                                   | -0.301                              |
+| Mozambique                         | Italy                | 750.0         | 2.461                                   | -0.172                              |
+| Myanmar                            | Switzerland          | 930.0         | 6.135                                   | -3.050                              |
+| Sierra Leone                       | Italy                | 3458.0        | 2.461                                   | -0.554                              |
+| Somalia                            | Sweden               | 32551.0       | 4.027                                   | -2.694                              |
+| South Sudan                        | Norway               | 425.0         | 5.273                                   | -15.902                             |
+| Sri Lanka                          | Italy                | 51107.0       | 2.461                                   | -4.631                              |
+| Sudan                              | Sweden               | 12340.0       | 4.027                                   | -1.208                              |
+| Syrian Arab Republic               | Sweden               | 270812.0      | 4.027                                   | -24.080                             |
+| Ukraine                            | Italy                | 101160.0      | 2.461                                   | 0.226                               |
+| Yemen                              | Sweden               | 3636.0        | 4.027                                   | -1.065                              |
+
+
+
+
+
+
+
 
 
