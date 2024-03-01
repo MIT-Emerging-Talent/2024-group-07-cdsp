@@ -197,9 +197,20 @@ Expanding our inquiry to popular destination countries (Sweden, Spain, Italy), a
 | Yemen                              | Sweden               | 3636.0        | 4.027                                   | -1.065                              |
 
 
+- In our concluding graph, we will present the outcomes derived from the compilation of countries and their respective destination countries, showcasing the net migration rate. This metric encapsulates the intricate balance between immigration and emigration, providing a comprehensive overview of population dynamics in these interconnected regions.
 
+  - Our final graph holds a pivotal role in unraveling the intricacies of global population movements. It specifically highlights the net migration rate, a metric that goes beyond mere immigration and emigration numbers. The net migration rate provides a nuanced understanding of the demographic equilibrium within these regions.
 
+  - This metric is a powerful indicator of the net population change resulting from migration, taking into account both the influx and outflow of individuals. A positive net migration rate signals a net gain in population for the destination country, suggesting higher levels of immigration compared to emigration. Conversely, a negative net migration rate indicates a net loss, where more people are leaving than arriving.
 
+  - By incorporating the net migration rate into our analysis, we gain valuable insights into the socio-economic dynamics of these interconnected regions. It serves as a compass for assessing the attractiveness of a destination country, the impact on its workforce, and potential economic implications.
+
+  - Furthermore, the net migration rate is a key consideration for policymakers and researchers. It offers a lens through which to evaluate the success and sustainability of immigration policies, helping governments make informed decisions about resource allocation, infrastructure planning, and societal integration.
+
+  - In essence, the net migration rate is not just a numerical representation; it is a crucial tool for deciphering the complex interplay of factors that shape the population landscapes of countries. Our graph, showcasing this vital metric, provides a comprehensive narrative of how migration influences the demographic tapestry, offering valuable insights for strategic planning, policy formulation, and a deeper understanding of global interconnectedness.
+
+https://github.com/MIT-Emerging-Talent/2024-group-07-cdsp/issues/60#issue-2164315105
+  ![Net Migration rate of origin countries and major destination countries from 2015-2020](60#issue-2164315105)
 
 
 
