@@ -118,6 +118,8 @@ While some origin countries exhibited a correlation between GDP and migration, o
 - Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)
   
   ![Relation between origin countries GDP and number of migrants over the period of 6 years (2014-2019)](4.png)
+## Origin Countries and Post Conflict Migration
+A substantial migration flow to Europe has been observed from several countries of interest, with a notable proportion originating from the Syrian Arab Republic. Additionally, countries like Colombia, Ukraine, Bosnia and Herzegovina, and Afghanistan have shown significantly higher migration ratios compared to others.
 
 ## Analysis of Popular Destination Countries
 
