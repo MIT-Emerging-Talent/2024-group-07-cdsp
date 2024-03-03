@@ -76,7 +76,7 @@ In the second phase of data cleaning, our attention shifted to factors contribut
 - Seperated DataFrame which shows total number of emigrants from the origin countries who left their countries to seek citizenship in 6 years(2014-2019)
 
 
-| origin_name                             | origin_alpha_3 | citizen_sum_5_years |
+| origin_name                             | origin_alpha_3 | citizen_sum_6_years |
 |-----------------------------------------|----------------|----------------------|
 | Afghanistan                             | AFG            | 37865.0              |
 | Angola                                  | AGO            | 1977.0               |
