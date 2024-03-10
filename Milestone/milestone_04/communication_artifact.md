@@ -13,6 +13,6 @@ Tune in to our podcast series, where we explore migration through the lens of pe
 In partnership with leading experts and organizations, we're developing a centralized open-source database that will serve as a valuable resource for researchers, policymakers, and activists alike. This comprehensive database will include data on migration patterns, socioeconomic factors, policy frameworks, and more, empowering users to conduct in-depth analysis, inform evidence-based policies, and contribute to a more nuanced understanding of migration dynamics in post-conflict countries. Stay tuned for updates and opportunities to get involved.
 
 
-*Migrant Matters is more than just a campaign—it's a call to action. Together, let's raise our voices, challenge misconceptions, and advocate for a world where the rights and dignity of migrants are respected and protected. Join us as we embark on this journey of solidarity, empathy, and positive change. Because when it comes to migration, every story matters, and every voice counts.
+### Migrant Matters is more than just a campaign—it's a call to action. Together, let's raise our voices, challenge misconceptions, and advocate for a world where the rights and dignity of migrants are respected and protected. Join us as we embark on this journey of solidarity, empathy, and positive change. Because when it comes to migration, every story matters, and every voice counts.
 
-Join the Movement. Migration Matters. #MigrantJourneysUnfold*
+Join the Movement. Migration Matters. #MigrantJourneysUnfold
