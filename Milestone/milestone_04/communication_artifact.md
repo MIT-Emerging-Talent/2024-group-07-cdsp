@@ -1,7 +1,7 @@
-# Migration Matters: Advocating for Migrant Rights
+# Migrant Lives Matter: Advocating for Migrant Rights
 
 ## Introduction
-Welcome to Migration Matters, a multifaceted campaign aimed at raising awareness, advocating for migrant rights, and promoting informed dialogue about migration patterns in post-conflict countries. Through a combination of social media engagement, a thought-provoking podcast series, and the development of a centralized open-source database, we invite you to join us in amplifying the voices of migrants and fostering meaningful change in the global discourse on migration.
+Welcome to Migrant Lives Matter, a multifaceted campaign aimed at raising awareness, advocating for migrant rights, and promoting informed dialogue about migration patterns in post-conflict countries. Through a combination of social media engagement, a thought-provoking podcast series, and the development of a centralized open-source database, we invite you to join us in amplifying the voices of migrants and fostering meaningful change in the global discourse on migration.
 
 ## Social Media Campaign
 Follow us on social media and join the conversation using the hashtag #MigrantJourneysUnfold. Through a carefully curated content strategy, we'll share compelling stories, data-driven insights, and actionable calls to action that highlight the human stories behind migration and advocate for the rights and dignity of all migrants. Engage with us, share your own experiences, and be part of a community committed to positive change.
